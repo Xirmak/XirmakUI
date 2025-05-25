@@ -44,6 +44,45 @@ Here are the key addons included in my pack:
 
 ---
 
+🧩 Optional Addons with Wiki Links
+
+- [AI_VoiceOver](https://turtle-wow.fandom.com/wiki/Addons/AI_VoiceOver)
+- [AI_VoiceOverData_Vanilla](https://turtle-wow.fandom.com/wiki/Addons/AI_VoiceOver)
+- [AutoDB2](https://turtle-wow.fandom.com/wiki/Addons/AutoDB2)
+- [Bagshui](https://turtle-wow.fandom.com/wiki/Addons/Bagshui)
+- [BetterCharacterStats](https://turtle-wow.fandom.com/wiki/Addons/BetterCharacterStats)
+- [BigWigs](https://turtle-wow.fandom.com/wiki/Addons/BigWigs)
+- [ColorPickerPlus](https://turtle-wow.fandom.com/wiki/Addons/ColorPickerPlus)
+- [enemyFrames](https://turtle-wow.fandom.com/wiki/Addons/enemyFrames)
+- [ItemRack](https://turtle-wow.fandom.com/wiki/Addons/ItemRack)
+- [ItemRackFu](https://turtle-wow.fandom.com/wiki/Addons/ItemRack)
+- [Mail](https://turtle-wow.fandom.com/wiki/Addons/MailNotifier)
+- [MoveAnything](https://turtle-wow.fandom.com/wiki/Addons/MoveAnything)
+- [NosCursor](https://turtle-wow.fandom.com/wiki/Addons/NosCursor)
+- [NugComboBar](https://turtle-wow.fandom.com/wiki/Addons/NugComboBar)
+- [NugEnergy](https://turtle-wow.fandom.com/wiki/Addons/NugEnergy)
+- [PallyPower](https://turtle-wow.fandom.com/wiki/Addons/PallyPower)
+- [PizzaSlices](https://turtle-wow.fandom.com/wiki/Addons/PizzaSlices)
+- [RaidRollBuddy](https://turtle-wow.fandom.com/wiki/Addons/RaidRollBuddy)
+- [ShaguScore](https://turtle-wow.fandom.com/wiki/Addons/ShaguScore)
+- [SimpleActionSets](https://turtle-wow.fandom.com/wiki/Addons/SimpleActionSets)
+- [SpecialTalent](https://turtle-wow.fandom.com/wiki/Addons/SpecialTalent)
+- [SpecialTalentUI](https://turtle-wow.fandom.com/wiki/Addons/SpecialTalent)
+- [Strategos_Battleground](https://turtle-wow.fandom.com/wiki/Addons/Strategos)
+- [Strategos_Minimap](https://turtle-wow.fandom.com/wiki/Addons/Strategos)
+- [StrategosCore](https://turtle-wow.fandom.com/wiki/Addons/Strategos)
+- [SuperAPI](https://turtle-wow.fandom.com/wiki/Addons/SuperAPI)
+- [TankPlates](https://turtle-wow.fandom.com/wiki/Addons/TankPlates)
+- [TWowenWilson](https://turtle-wow.fandom.com/wiki/Addons/TWowenWilson)
+- [WhatsTraining_Turtle](https://turtle-wow.fandom.com/wiki/Addons/WhatsTraining)
+- [WIM](https://turtle-wow.fandom.com/wiki/Addons/WIM)
+- [XLoot](https://turtle-wow.fandom.com/wiki/Addons/XLoot)
+- [XLootGroup](https://turtle-wow.fandom.com/wiki/Addons/XLoot)
+- [XLootMaster](https://turtle-wow.fandom.com/wiki/Addons/XLoot)
+- [XLootMonitor](https://turtle-wow.fandom.com/wiki/Addons/XLoot)
+
+---
+
 ## 📺 UI Walkthrough Video
 
 🎬 [Watch the UI Showcase Video](https://youtu.be/WT35iYBK5X8)
